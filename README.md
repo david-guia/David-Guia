@@ -23,7 +23,7 @@
 - 🌱 J'apprends sur le sujet: **📚 J’explore le langage Swift**
 - 💬 Échangeons sur: **💡Langage Web, Shortcuts Apple **
 - ⚡ Fun fact: **🕖 Toujours trop en avance !**
-- 📝 Blog: **<a href="👨‍💻 davidguia.me" target="_blank">👨‍💻 davidguia.me</a>**
+- 📝 Blog: **<a href="https://davidguia.me" target="_blank">👨‍💻 davidguia.me</a>**
 
 
  **<h3 align="left">Skills</h3>**
